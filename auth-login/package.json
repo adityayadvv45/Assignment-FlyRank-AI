@@ -1,0 +1,9 @@
+{
+  "name": "auth-login-root",
+  "version": "1.0.0",
+  "private": true,
+  "scripts": {
+    "start": "npm --prefix auth-login-protect start",
+    "dev": "npm --prefix auth-login-protect run dev"
+  }
+}
